@@ -1,5 +1,7 @@
 # NeuralScope: Neural Network From Scratch (MNIST Classifier)
 
+![Demo Screenshot](screenshot.png)
+
 ## Overview
 NeuralScope is a Python project that implements a feedforward neural network from scratch (using only NumPy) to classify handwritten digits from the MNIST dataset. The project is designed for learning and experimentation, with clear code and visualizations.
 
